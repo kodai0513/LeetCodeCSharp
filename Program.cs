@@ -1,7 +1,10 @@
 ﻿using LeetCodeCSharp.Problems;
 using LeetCodeProject.Problems;
 
-var problem = new Q0035();
-var nums = new int[] {1,3,5,6};
-var answer = problem.SearchInsert(nums, 2);
-Console.WriteLine(answer);
+var problem = new Q0066();
+var nums = new int[] {9, 9, 9};
+var answer = problem.PlusOne(nums);
+foreach(var num in answer)
+{
+    Console.Write(num);
+}

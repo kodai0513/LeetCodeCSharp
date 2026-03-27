@@ -7,7 +7,7 @@ insertSearch: 2
 
 namespace LeetCodeCSharp.Problems
 {
-    public class Q0035
+    public class Q35
     {
         public int SearchInsert(int[] nums, int target)
         {

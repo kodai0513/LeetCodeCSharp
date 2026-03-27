@@ -1,6 +1,6 @@
 namespace LeetCodeProject.Problems;
 
-public class Q0001 {
+public class Q1 {
     public int[] TwoSum(int[] nums, int target)
     {
         var map = new Dictionary<int, int>();

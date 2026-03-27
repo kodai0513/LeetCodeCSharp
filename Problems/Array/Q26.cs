@@ -1,6 +1,6 @@
 namespace LeetCodeProject.Problems;
 
-public class Q0026 {
+public class Q26 {
     public int RemoveDuplicates(int[] nums)
     {
         var writeIndex = 1;

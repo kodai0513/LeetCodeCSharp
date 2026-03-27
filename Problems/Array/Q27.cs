@@ -6,7 +6,7 @@ nums = [1,2,3,3,4] val = 3
 replaceIndex = 2
 */
 
-public class Q0027 {
+public class Q27 {
     public int RemoveElement(int[] nums, int val) {
         if (nums.Length == 0) return 0;
 

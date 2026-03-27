@@ -5,7 +5,7 @@ using System.Threading.Tasks;
 
 namespace LeetCodeCSharp.Problems
 {
-    public class Q0088
+    public class Q88
     {
         public void Merge(int[] nums1, int m, int[] nums2, int n)
         {

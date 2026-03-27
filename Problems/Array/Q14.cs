@@ -1,6 +1,6 @@
 namespace LeetCodeProject.Problems;
 
-public class Q0014 {
+public class Q14 {
     public string LongestCommonPrefix(string[] strs)
     {
         var latestPrefix = strs[0];

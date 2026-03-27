@@ -5,7 +5,7 @@ using System.Threading.Tasks;
 
 namespace LeetCodeCSharp.Problems
 {
-    public class Q0066
+    public class Q66
     {
         public int[] PlusOne(int[] digits)
         {

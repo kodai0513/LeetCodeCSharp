@@ -2,8 +2,8 @@
 using LeetCodeCSharp.Problems.Array;
 using LeetCodeCSharp.Problems.String;
 
-var ans = new Q20().IsValid("]");
-Console.WriteLine(ans);
-
-// string json = JsonSerializer.Serialize(ans, new JsonSerializerOptions());
-// Console.WriteLine(json);
+var rows = new Q119().GetRow(4);
+foreach(var row in rows)
+{
+    Console.Write(row);
+}

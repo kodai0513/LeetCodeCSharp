@@ -2,5 +2,5 @@
 using LeetCodeCSharp.Problems.Array;
 using LeetCodeCSharp.Problems.String;
 
-var ans = new Q28().StrStr("mississippi", "issip");
+var ans = new Q67().AddBinary("1010", "1011");
 Console.WriteLine(ans);

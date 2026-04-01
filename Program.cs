@@ -2,5 +2,5 @@
 using LeetCodeCSharp.Problems.Array;
 using LeetCodeCSharp.Problems.String;
 
-var ans = new Q67().AddBinary("1010", "1011");
+var ans = new Q169().MajorityElement([2,2,1,1,1,2,2]);
 Console.WriteLine(ans);

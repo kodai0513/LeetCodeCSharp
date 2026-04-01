@@ -2,5 +2,5 @@
 using LeetCodeCSharp.Problems.Array;
 using LeetCodeCSharp.Problems.String;
 
-var ans = new Q217().ContainsDuplicate([1,2,3,4]);
+var ans = new Q125().IsPalindrome(" ");
 Console.WriteLine(ans);

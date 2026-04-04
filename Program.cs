@@ -2,5 +2,5 @@
 using LeetCodeCSharp.Problems.Array;
 using LeetCodeCSharp.Problems.String;
 
-var ans = new Q219().ContainsNearbyDuplicate([1,2,3,1], 3);
+var ans = new Q228().SummaryRanges([0,2,3,4,6,8,9]);
 Console.WriteLine(ans);
